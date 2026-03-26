@@ -57,4 +57,5 @@ Real Lithuanian landmarks visuals<br/>
 This is a fun arcade-style game inspired by current events.
 Not a simulation. Not serious. Just vibes.<br/>
 
-Enjoy the chaos.# Drone-Drama
+Enjoy the chaos.<br/>
+# Drone-Drama
